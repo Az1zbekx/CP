@@ -1,0 +1,5 @@
+l = list(map(int, input().split()))
+mx = max(l)
+mn = min(l)
+s = sum(l)
+print(s - mx, s - mn)
