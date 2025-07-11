@@ -1,0 +1,1 @@
+print(1 if input() == "A089957" else 0)
